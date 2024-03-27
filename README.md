@@ -1,2 +1,2 @@
 # CSE306-Computer-Graphic
-Repository for Computer Graphics Class
+Repository for the Computer Graphics class at Ecole Polytechnique 
